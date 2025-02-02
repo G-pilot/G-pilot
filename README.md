@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @G-pilot
-- 👀 I’m interested in sotfware enginering.
+- 👋 Hi, I’m @Gregory
+- 👀 I’m interested in software engineering and Cybersecurity.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me ... gregoryogechukwu7@gmail.com
+- 📫 How to reach me ... gregory.ihenebo@gmail.com 
 
 <!---
 G-pilot/G-pilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
